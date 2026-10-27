@@ -1,0 +1,21 @@
+{
+  "projectId": "72195579",
+  "functions": {
+    "admin-create-user": {
+      "hasChanged": false,
+      "hash": "f7087ee8c58ef5fd0d7cce31e6ca3a546ee0536dbe7c69c1e388271acf857ba4"
+    },
+    "authorization-center": {
+      "hasChanged": false,
+      "hash": "5b01c952dbffda6988aa5553730712b9241eb482a3fcda54e339902e83809aa6"
+    },
+    "authorize-inventory": {
+      "hasChanged": false,
+      "hash": "0d087dfba29f2b54ac7129a529b9277f1fa82f89faee304167a65cbadf6914a5"
+    },
+    "send-ticket-email": {
+      "hasChanged": false,
+      "hash": "4a005c406f7afe0cc4f0fb1fbe699d36126f9aa61ab2a035bd42677f2ed90663"
+    }
+  }
+}

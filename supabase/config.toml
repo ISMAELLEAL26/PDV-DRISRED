@@ -1,0 +1,15 @@
+[functions.admin-create-user]
+verify_jwt = true
+entrypoint = "./functions/admin-create-user/index.ts"
+
+[functions.send-ticket-email]
+verify_jwt = true
+entrypoint = "./functions/send-ticket-email/index.ts"
+
+[functions.authorize-inventory]
+verify_jwt = true
+entrypoint = "./functions/authorize-inventory/index.ts"
+
+[functions.authorization-center]
+verify_jwt = true
+entrypoint = "./functions/authorization-center/index.ts"
